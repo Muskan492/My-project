@@ -1,0 +1,81 @@
+body
+{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+h1{
+    color: rgb(99, 27, 167);
+    cursor: pointer;
+    
+}
+
+td
+{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+.number
+{
+    line-height: 0px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.name
+{
+    line-height: 0px;
+    font-weight: bold;
+}
+
+.category
+{
+    background-color: rgb(83,173,98);
+}
+
+
+.category2
+{
+background-color: rgb( 247, 20, 65);
+}
+.category3
+{
+    
+background-color: rgb(138, 74, 143);
+
+}
+
+.category4
+{
+    
+background-color: rgb(240, 89, 7);
+}
+
+.category5
+{
+    
+background-color: rgb( 146, 174, 209);
+}
+
+.category6
+{
+    
+background-color: rgb( 30, 106, 201);
+}
+
+.category7
+{
+    
+background-color: rgb(102, 110, 122);
+}
+
+.category8
+{
+    
+background-color: rgb( 237, 233, 9);
+}
+
+.category9
+{
+    
+background-color: rgb( 235, 160, 223);
+}
